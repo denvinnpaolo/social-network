@@ -1,0 +1,14 @@
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/Persistence/bin/Debug/net5.0/Persistence.deps.json
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/Persistence/bin/Debug/net5.0/Persistence.dll
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/Persistence/bin/Debug/net5.0/ref/Persistence.dll
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/Persistence/bin/Debug/net5.0/Persistence.pdb
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/Persistence/bin/Debug/net5.0/Domain.dll
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/Persistence/bin/Debug/net5.0/Domain.pdb
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/Persistence/obj/Debug/net5.0/Persistence.csproj.AssemblyReference.cache
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/Persistence/obj/Debug/net5.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/Persistence/obj/Debug/net5.0/Persistence.dll
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/Persistence/obj/Debug/net5.0/ref/Persistence.dll
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/Persistence/obj/Debug/net5.0/Persistence.pdb

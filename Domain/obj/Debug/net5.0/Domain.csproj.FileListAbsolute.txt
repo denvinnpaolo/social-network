@@ -1,0 +1,12 @@
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/Domain/bin/Debug/net5.0/Domain.dll
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/Domain/bin/Debug/net5.0/ref/Domain.dll
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/Domain/obj/Debug/net5.0/Domain.csproj.AssemblyReference.cache
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/Domain/obj/Debug/net5.0/Domain.dll
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/Domain/obj/Debug/net5.0/ref/Domain.dll
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/Domain/obj/Debug/net5.0/Domain.pdb
