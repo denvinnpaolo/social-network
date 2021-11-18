@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "HgAvWd4CYjb+7eqcuCf6v/ATeDB8NHwqeroRNfoZ9/F4Xz+eeXOfr2Tt+oWRIMz+jNqkZ/ucd+oKU+p35c8Tlw==",
+  "dgSpecHash": "3F4CEa9eNtivqWcOSbsbv2HzLrbhmn4S/VSv61PDyZAc2D+uJas86FxeFp4/C33M3IKyHjYHuoOLQUMpqQL2Ng==",
   "success": true,
   "projectFilePath": "/Users/dee/Desktop/Code/socialnetworkapp/social-network/Application/Application.csproj",
   "expectedPackageFiles": [
+    "/Users/dee/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
+    "/Users/dee/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/9.0.0/mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "/Users/dee/.nuget/packages/microsoft.data.sqlite.core/5.0.4/microsoft.data.sqlite.core.5.0.4.nupkg.sha512",
     "/Users/dee/.nuget/packages/microsoft.dotnet.platformabstractions/3.1.6/microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
     "/Users/dee/.nuget/packages/microsoft.entityframeworkcore/5.0.4/microsoft.entityframeworkcore.5.0.4.nupkg.sha512",
