@@ -61,3 +61,4 @@
 /Users/dee/Desktop/Code/socialnetworkapp/social-network/API/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
 /Users/dee/Desktop/Code/socialnetworkapp/social-network/API/bin/Debug/net5.0/MediatR.dll
 /Users/dee/Desktop/Code/socialnetworkapp/social-network/API/bin/Debug/net5.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/API/obj/Debug/net5.0/API.csproj.CopyComplete
