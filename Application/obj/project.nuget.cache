@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "3F4CEa9eNtivqWcOSbsbv2HzLrbhmn4S/VSv61PDyZAc2D+uJas86FxeFp4/C33M3IKyHjYHuoOLQUMpqQL2Ng==",
+  "dgSpecHash": "zUG3JLplAkO2dvZ1fBUvLB0PP+rs4LGAw4KchTRK2x3hI8z7chtmhA5Bu/JfSfhxr/ZZylgM7QLDtoT9NKxb6g==",
   "success": true,
   "projectFilePath": "/Users/dee/Desktop/Code/socialnetworkapp/social-network/Application/Application.csproj",
   "expectedPackageFiles": [
+    "/Users/dee/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
+    "/Users/dee/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "/Users/dee/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
     "/Users/dee/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/9.0.0/mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "/Users/dee/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/dee/.nuget/packages/microsoft.data.sqlite.core/5.0.4/microsoft.data.sqlite.core.5.0.4.nupkg.sha512",
     "/Users/dee/.nuget/packages/microsoft.dotnet.platformabstractions/3.1.6/microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
     "/Users/dee/.nuget/packages/microsoft.entityframeworkcore/5.0.4/microsoft.entityframeworkcore.5.0.4.nupkg.sha512",
@@ -31,7 +34,8 @@
     "/Users/dee/.nuget/packages/system.collections.immutable/5.0.0/system.collections.immutable.5.0.0.nupkg.sha512",
     "/Users/dee/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "/Users/dee/.nuget/packages/system.diagnostics.diagnosticsource/5.0.1/system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
-    "/Users/dee/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+    "/Users/dee/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/dee/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
