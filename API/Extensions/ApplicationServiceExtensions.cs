@@ -31,8 +31,6 @@ namespace API.Extensions
             services.AddMediatR(typeof(List.Handler).Assembly);
             services.AddAutoMapper(typeof(MappingProfiles).Assembly);
 
-
-
             return services;
         }
     }
