@@ -63,3 +63,4 @@
 /Users/dee/Desktop/Code/socialnetworkapp/social-network/API/bin/Debug/net5.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
 /Users/dee/Desktop/Code/socialnetworkapp/social-network/API/bin/Debug/net5.0/AutoMapper.dll
 /Users/dee/Desktop/Code/socialnetworkapp/social-network/API/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/API/obj/Debug/net5.0/API.csproj.CopyComplete
