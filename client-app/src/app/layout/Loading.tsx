@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Loader, Dimmer } from 'semantic-ui-react';
 
 interface Props {
