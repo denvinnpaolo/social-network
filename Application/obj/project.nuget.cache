@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "zUG3JLplAkO2dvZ1fBUvLB0PP+rs4LGAw4KchTRK2x3hI8z7chtmhA5Bu/JfSfhxr/ZZylgM7QLDtoT9NKxb6g==",
+  "dgSpecHash": "DJbRB4f4VdqECUyh1Jdv0cZ9capfWwdhtVBWxY8sNfC8qCBISLd2cM4Sjg1giBuk6gn24cVBLdblPlfsfzC15Q==",
   "success": true,
   "projectFilePath": "/Users/dee/Desktop/Code/socialnetworkapp/social-network/Application/Application.csproj",
   "expectedPackageFiles": [
     "/Users/dee/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
     "/Users/dee/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "/Users/dee/.nuget/packages/fluentvalidation/10.3.4/fluentvalidation.10.3.4.nupkg.sha512",
+    "/Users/dee/.nuget/packages/fluentvalidation.aspnetcore/10.3.4/fluentvalidation.aspnetcore.10.3.4.nupkg.sha512",
+    "/Users/dee/.nuget/packages/fluentvalidation.dependencyinjectionextensions/10.3.4/fluentvalidation.dependencyinjectionextensions.10.3.4.nupkg.sha512",
     "/Users/dee/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
     "/Users/dee/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/9.0.0/mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "/Users/dee/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
