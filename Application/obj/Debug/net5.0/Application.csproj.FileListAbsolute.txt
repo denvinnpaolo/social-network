@@ -14,3 +14,4 @@
 /Users/dee/Desktop/Code/socialnetworkapp/social-network/Application/obj/Debug/net5.0/Application.dll
 /Users/dee/Desktop/Code/socialnetworkapp/social-network/Application/obj/Debug/net5.0/ref/Application.dll
 /Users/dee/Desktop/Code/socialnetworkapp/social-network/Application/obj/Debug/net5.0/Application.pdb
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/Application/obj/Debug/net5.0/Application.csproj.CopyComplete

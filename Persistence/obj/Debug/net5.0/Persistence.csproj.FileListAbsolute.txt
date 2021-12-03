@@ -12,3 +12,4 @@
 /Users/dee/Desktop/Code/socialnetworkapp/social-network/Persistence/obj/Debug/net5.0/Persistence.dll
 /Users/dee/Desktop/Code/socialnetworkapp/social-network/Persistence/obj/Debug/net5.0/ref/Persistence.dll
 /Users/dee/Desktop/Code/socialnetworkapp/social-network/Persistence/obj/Debug/net5.0/Persistence.pdb
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/Persistence/obj/Debug/net5.0/Persistence.csproj.CopyComplete
