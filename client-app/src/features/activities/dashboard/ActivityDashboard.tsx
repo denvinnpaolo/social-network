@@ -14,14 +14,10 @@ export default observer(function ActivityDashboard() {
         if (activityRegistry.size <= 1) loadActivities();
     }, [activityRegistry.size, loadActivities]);
   
-    
-    if (activityStore.loadingInitial) return <Loading content="Loading app" />
-
     return (
         <Grid>
             <Grid.Column width='10'>
-                <ActivityList 
-                />
+                {!activityStore.loadingInitial? <ActivityList /> :  <Loading content="Loading activities..." />}
             </Grid.Column>
             <Grid.Column width="6">
                 <ActivityFilters />
