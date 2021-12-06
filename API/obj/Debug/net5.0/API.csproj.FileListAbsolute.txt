@@ -78,3 +78,5 @@
 /Users/dee/Desktop/Code/socialnetworkapp/social-network/API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Users/dee/Desktop/Code/socialnetworkapp/social-network/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
 /Users/dee/Desktop/Code/socialnetworkapp/social-network/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/API/bin/Debug/net5.0/Infrastructure.dll
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/API/bin/Debug/net5.0/Infrastructure.pdb
