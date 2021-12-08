@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Persistence
-build_property.ProjectDir = /Users/dee/Library/Containers/2BUA8C4S2C.com.agilebits.onepassword7-helper/Data/Desktop/Code/socialnetworkapp/social-network/Persistence/
+build_property.ProjectDir = /Users/dee/Desktop/Code/socialnetworkapp/social-network/Persistence/
