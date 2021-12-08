@@ -84,11 +84,11 @@ const Account = {
     current: () => requests.get<User>('/account'),
     login: (user: UserFormValues) => requests.post('/account/login', user),
     register: (user: UserFormValues) => requests.post('/account/register', user)
-}
+};
 
 const agent = {
     Activities,
     Account
-}
+};
 
 export default agent;
