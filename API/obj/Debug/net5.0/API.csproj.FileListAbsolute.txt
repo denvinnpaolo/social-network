@@ -80,3 +80,6 @@
 /Users/dee/Desktop/Code/socialnetworkapp/social-network/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 /Users/dee/Desktop/Code/socialnetworkapp/social-network/API/bin/Debug/net5.0/Infrastructure.dll
 /Users/dee/Desktop/Code/socialnetworkapp/social-network/API/bin/Debug/net5.0/Infrastructure.pdb
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/API/bin/Debug/net5.0/CloudinaryDotNet.dll
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/API/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/dee/Desktop/Code/socialnetworkapp/social-network/API/obj/Debug/net5.0/API.csproj.CopyComplete
