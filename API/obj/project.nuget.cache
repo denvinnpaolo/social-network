@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Qo7sb2e0I9wNjOOU/rLnR0t1zJupF53TK6v+QTf+6NKGv3tyZjB8CxAoHqm/0MCzoqOixxLVayz0b4pk3Lh9tQ==",
+  "dgSpecHash": "f9hosZNjxYaMDNW+DRnZ/+8MIqgFr7TRNGS+fVzB5zpa0Z0/XgLCqL7B1UJ9zuZozIzGsPvgiZnCclnIkGtcBA==",
   "success": true,
   "projectFilePath": "/Users/dee/Desktop/Code/socialnetworkapp/social-network/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/dee/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
     "/Users/dee/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "/Users/dee/.nuget/packages/cloudinarydotnet/1.14.0/cloudinarydotnet.1.14.0.nupkg.sha512",
     "/Users/dee/.nuget/packages/fluentvalidation/10.3.4/fluentvalidation.10.3.4.nupkg.sha512",
     "/Users/dee/.nuget/packages/fluentvalidation.aspnetcore/10.3.4/fluentvalidation.aspnetcore.10.3.4.nupkg.sha512",
     "/Users/dee/.nuget/packages/fluentvalidation.dependencyinjectionextensions/10.3.4/fluentvalidation.dependencyinjectionextensions.10.3.4.nupkg.sha512",
@@ -45,6 +46,7 @@
     "/Users/dee/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.7.1/microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
     "/Users/dee/.nuget/packages/microsoft.identitymodel.tokens/6.14.1/microsoft.identitymodel.tokens.6.14.1.nupkg.sha512",
     "/Users/dee/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/dee/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
     "/Users/dee/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.4/sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
     "/Users/dee/.nuget/packages/sqlitepclraw.core/2.0.4/sqlitepclraw.core.2.0.4.nupkg.sha512",
     "/Users/dee/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.4/sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
