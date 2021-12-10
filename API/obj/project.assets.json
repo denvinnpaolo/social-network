@@ -2116,11 +2116,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dee/Desktop/Code/socialnetworkapp/social-network/API/API.csproj",
+      "projectUniqueName": "/Users/dee/Desktop/personal/Code/socialnetworkapp/social-network/API/API.csproj",
       "projectName": "API",
-      "projectPath": "/Users/dee/Desktop/Code/socialnetworkapp/social-network/API/API.csproj",
+      "projectPath": "/Users/dee/Desktop/personal/Code/socialnetworkapp/social-network/API/API.csproj",
       "packagesPath": "/Users/dee/.nuget/packages/",
-      "outputPath": "/Users/dee/Desktop/Code/socialnetworkapp/social-network/API/obj/",
+      "outputPath": "/Users/dee/Desktop/personal/Code/socialnetworkapp/social-network/API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dee/.nuget/NuGet/NuGet.Config"
@@ -2135,11 +2135,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/dee/Desktop/Code/socialnetworkapp/social-network/Application/Application.csproj": {
-              "projectPath": "/Users/dee/Desktop/Code/socialnetworkapp/social-network/Application/Application.csproj"
+            "/Users/dee/Desktop/personal/Code/socialnetworkapp/social-network/Application/Application.csproj": {
+              "projectPath": "/Users/dee/Desktop/personal/Code/socialnetworkapp/social-network/Application/Application.csproj"
             },
-            "/Users/dee/Desktop/Code/socialnetworkapp/social-network/Infrastructure/Infrastructure.csproj": {
-              "projectPath": "/Users/dee/Desktop/Code/socialnetworkapp/social-network/Infrastructure/Infrastructure.csproj"
+            "/Users/dee/Desktop/personal/Code/socialnetworkapp/social-network/Infrastructure/Infrastructure.csproj": {
+              "projectPath": "/Users/dee/Desktop/personal/Code/socialnetworkapp/social-network/Infrastructure/Infrastructure.csproj"
             }
           }
         }

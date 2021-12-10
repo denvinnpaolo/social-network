@@ -1476,11 +1476,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dee/Desktop/Code/socialnetworkapp/social-network/Application/Application.csproj",
+      "projectUniqueName": "/Users/dee/Desktop/personal/Code/socialnetworkapp/social-network/Application/Application.csproj",
       "projectName": "Application",
-      "projectPath": "/Users/dee/Desktop/Code/socialnetworkapp/social-network/Application/Application.csproj",
+      "projectPath": "/Users/dee/Desktop/personal/Code/socialnetworkapp/social-network/Application/Application.csproj",
       "packagesPath": "/Users/dee/.nuget/packages/",
-      "outputPath": "/Users/dee/Desktop/Code/socialnetworkapp/social-network/Application/obj/",
+      "outputPath": "/Users/dee/Desktop/personal/Code/socialnetworkapp/social-network/Application/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dee/.nuget/NuGet/NuGet.Config"
@@ -1495,11 +1495,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/dee/Desktop/Code/socialnetworkapp/social-network/Domain/Domain.csproj": {
-              "projectPath": "/Users/dee/Desktop/Code/socialnetworkapp/social-network/Domain/Domain.csproj"
+            "/Users/dee/Desktop/personal/Code/socialnetworkapp/social-network/Domain/Domain.csproj": {
+              "projectPath": "/Users/dee/Desktop/personal/Code/socialnetworkapp/social-network/Domain/Domain.csproj"
             },
-            "/Users/dee/Desktop/Code/socialnetworkapp/social-network/Persistence/Persistence.csproj": {
-              "projectPath": "/Users/dee/Desktop/Code/socialnetworkapp/social-network/Persistence/Persistence.csproj"
+            "/Users/dee/Desktop/personal/Code/socialnetworkapp/social-network/Persistence/Persistence.csproj": {
+              "projectPath": "/Users/dee/Desktop/personal/Code/socialnetworkapp/social-network/Persistence/Persistence.csproj"
             }
           }
         }

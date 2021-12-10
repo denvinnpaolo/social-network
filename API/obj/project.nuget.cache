@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f9hosZNjxYaMDNW+DRnZ/+8MIqgFr7TRNGS+fVzB5zpa0Z0/XgLCqL7B1UJ9zuZozIzGsPvgiZnCclnIkGtcBA==",
+  "dgSpecHash": "BCasMDYPWSzmUE9Oz/r3NtCFG6E8K4mefD3rZXXQqP46OkJXBkcIGb+tWHCUKFY5Ry0FCjzJpbC3V5AyDnkfiQ==",
   "success": true,
-  "projectFilePath": "/Users/dee/Desktop/Code/socialnetworkapp/social-network/API/API.csproj",
+  "projectFilePath": "/Users/dee/Desktop/personal/Code/socialnetworkapp/social-network/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/dee/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
     "/Users/dee/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
