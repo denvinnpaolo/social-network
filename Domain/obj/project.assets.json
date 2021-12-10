@@ -746,11 +746,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dee/Desktop/Code/socialnetworkapp/social-network/Domain/Domain.csproj",
+      "projectUniqueName": "/Users/dee/Desktop/personal/Code/socialnetworkapp/social-network/Domain/Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "/Users/dee/Desktop/Code/socialnetworkapp/social-network/Domain/Domain.csproj",
+      "projectPath": "/Users/dee/Desktop/personal/Code/socialnetworkapp/social-network/Domain/Domain.csproj",
       "packagesPath": "/Users/dee/.nuget/packages/",
-      "outputPath": "/Users/dee/Desktop/Code/socialnetworkapp/social-network/Domain/obj/",
+      "outputPath": "/Users/dee/Desktop/personal/Code/socialnetworkapp/social-network/Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dee/.nuget/NuGet/NuGet.Config"
