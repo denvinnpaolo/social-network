@@ -167,4 +167,3 @@
 /Users/dee/Desktop/personal/Code/socialnetworkapp/social-network/API/obj/Debug/net5.0/ref/API.dll
 /Users/dee/Desktop/personal/Code/socialnetworkapp/social-network/API/obj/Debug/net5.0/API.pdb
 /Users/dee/Desktop/personal/Code/socialnetworkapp/social-network/API/obj/Debug/net5.0/API.genruntimeconfig.cache
-/Users/dee/Desktop/personal/Code/socialnetworkapp/social-network/API/obj/Debug/net5.0/API.csproj.CopyComplete
