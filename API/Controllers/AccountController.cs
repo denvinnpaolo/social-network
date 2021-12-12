@@ -85,6 +85,7 @@ namespace API.Controllers
                 .FirstOrDefaultAsync(x => x.Email == User.FindFirstValue(ClaimTypes.Email));
 
             return CreateUserObject(user);
+            
         }
 
         private UserDto CreateUserObject(AppUser user)
